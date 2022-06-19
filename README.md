@@ -13,7 +13,6 @@ You can find many recipes.
   # Detail page
 ![](image/main.png) <dt>
 
-  
 ## Features
 
 100% Kotlin <dt>
