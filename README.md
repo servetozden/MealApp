@@ -12,3 +12,16 @@ You can find many recipes.
     
   # Detail page
 ![](image/main.png) <dt>
+
+  
+## Features
+
+100% Kotlin <dt>
+MVVM architecture <dt>
+Retrofit <dt>
+Android Architecture Components<dt>
+ViewModel <dt>
+LiveData <dt>
+Data Binding <dt>
+Kotlin Coroutines<dt>
+Glide
