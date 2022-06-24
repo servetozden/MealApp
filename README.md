@@ -9,7 +9,6 @@ You can find many recipes.
   # You can search
 ![](image/main2.png) <dt>
   
-    
   # Detail page
 ![](image/main.png) <dt>
 
