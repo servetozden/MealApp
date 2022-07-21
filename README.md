@@ -2,7 +2,6 @@
 
 You can find many recipes.
 
-
 # Main Page
 ![](image/main1.png) <dt>
   
